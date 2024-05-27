@@ -1,5 +1,5 @@
 # Bone-Fracture-Detection-Using-Deep-Learning-Applications
-<h3>Overview</h3><br>
+<h3>Overview</h3>
 <pr>This project is an academic endeavor focused on developing a deep learning model to detect bone fractures from X-ray images. Utilizing a dataset from Kaggle, the goal is to build an accurate and efficient system that can assist in medical diagnoses.</pr><br>
 <h3>Table of Contents</h3>
 <ul>
@@ -25,3 +25,28 @@ This project is part of my academic coursework, undertaken to gain hands-on expe
   <li>Annotations: Fracture (Yes/No), Fracture Type </li>
 </ul>
 <h3>Installation</h3>
+<pr>To run this project, you need to have the following dependencies installed:</pr>
+<ul>
+  <li>Python 3.x</li>
+  <li>TensorFlow</li>
+  <li>Keras</li>
+  <li>NumPy</li>
+  <li>OpenCV</li>
+  <li>Matplotlib</li>
+  <li>Pandas</li>
+</ul>
+  <pr>You can install the required packages using the following command:</pr>
+  pip install -r requirements.txt
+  <h3>Usage
+Data Preparation</h3>
+<ol>
+  <li>Download the dataset from Kaggle and extract it into the 'data' directory.</li>
+  <li>Ensure the directory structure is as follows:</li>
+  data/
+    train/
+        images/
+        annotations.csv
+    test/
+        images/
+        annotations.csv
+</ol>
