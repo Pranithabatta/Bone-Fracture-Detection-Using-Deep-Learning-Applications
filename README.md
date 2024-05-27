@@ -1,4 +1,4 @@
-![image](https://github.com/Pranithabatta/Bone-Fracture-Detection-Using-Deep-Learning-Applications/assets/93365541/f63b937b-8688-41ae-a62e-d4f848b498cb)![image](https://github.com/Pranithabatta/Bone-Fracture-Detection-Using-Deep-Learning-Applications/assets/93365541/cf13bb5a-e1fa-425d-8d37-75de6542b982)![image](https://github.com/Pranithabatta/Bone-Fracture-Detection-Using-Deep-Learning-Applications/assets/93365541/cec1f262-c610-478d-b598-b78a2d968141)# Bone-Fracture-Detection-Using-Deep-Learning-Applications
+# Bone-Fracture-Detection-Using-Deep-Learning-Applications
 <h3>Overview</h3>
 <pr>This project is an academic endeavor focused on developing a deep learning model to detect bone fractures from X-ray images. Utilizing a dataset from Kaggle, the goal is to build an accurate and efficient system that can assist in medical diagnoses.</pr><br>
 <h3>Table of Contents</h3>
