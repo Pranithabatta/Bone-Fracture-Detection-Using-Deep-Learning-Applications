@@ -1,7 +1,7 @@
 # Bone-Fracture-Detection-Using-Deep-Learning-Applications
-<b>Overview</b><br>
-<pr>This project is an academic endeavor focused on developing a deep learning model to detect bone fractures from X-ray images. Utilizing a dataset from Kaggle, the goal is to build an accurate and efficient system that can assist in medical diagnoses.</pr><br><br>
-<b>Table of Contents</b>
+<b>Overview</b><br><br>
+<pr>This project is an academic endeavor focused on developing a deep learning model to detect bone fractures from X-ray images. Utilizing a dataset from Kaggle, the goal is to build an accurate and efficient system that can assist in medical diagnoses.</pr><br>
+<b>Table of Contents</b><br>
 <ul>
   <li>Introduction</li>
   <li>Dataset</li>
@@ -21,6 +21,6 @@ This project is part of my academic coursework, undertaken to gain hands-on expe
 <pr>The dataset used for this project is sourced from Kaggle. It includes a large number of labeled X-ray images, with annotations indicating the presence or absence of fractures.</pr>
 <ul>
   <li>Dataset Source: Kaggle Bone Fracture Detection Dataset</li>
-  <li>Number of Images: [---------------]</li>
+  <li>Number of Images: 4911</li>
   <li>Annotations: Fracture (Yes/No), Fracture Type </li>
 </ul>
