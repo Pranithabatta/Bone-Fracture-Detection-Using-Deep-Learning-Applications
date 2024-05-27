@@ -16,8 +16,8 @@
 </ul>
 <h3>Introduction</h3>
 <pr>Bone fractures are a common medical condition that requires timely and accurate diagnosis. This project leverages deep learning techniques to automatically detect fractures from X-ray images. By doing so, it aims to assist healthcare professionals in making faster and more reliable diagnoses.
-This project is part of my academic coursework, undertaken to gain hands-on experience with machine learning and its applications in medical imaging.</pr><br><br>
-<h3>Dataset</h3><br>
+This project is part of my academic coursework, undertaken to gain hands-on experience with machine learning and its applications in medical imaging.</pr>
+<h3>Dataset</h3>
 <pr>The dataset used for this project is sourced from Kaggle. It includes a large number of labeled X-ray images, with annotations indicating the presence or absence of fractures.</pr>
 <ul>
   <li>Dataset Source: Kaggle Bone Fracture Detection Dataset</li>
